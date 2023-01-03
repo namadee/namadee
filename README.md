@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flhongtortai.com%2Fcollection%2Fanimated-typing-gif&psig=AOvVaw1lZo2tZTRQStCIG824LrvV&ust=1672821585080000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDakpWAq_wCFQAAAAAdAAAAABAI" width="100"/>
+  <img src="https://pixabay.com/images/id-5467535/" width="100"/>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
