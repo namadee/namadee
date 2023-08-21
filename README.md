@@ -7,7 +7,9 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namadee&theme=radical&count_private=true&show_icons=true" /></p>
 </div>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-namadee-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/namadee-shakya-043b98202)
+### :mailbox: Languages and Tools :
+
+ [![Linkedin Badge](https://img.shields.io/badge/-namadee-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/namadee-shakya-043b98202)
 
 
 ### :hammer_and_wrench: Languages and Tools :
