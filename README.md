@@ -4,7 +4,7 @@
 </h1>
 </div>
 <div>
-  ![My Github stats](https://github-readme-stats.vercel.app/api?username=namadee&theme=radical&show_icons=true)
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namadee&show_icons=true&locale=en" alt="namadee" /></p>
 </div>
 ### :woman_technologist: About Me :
 
