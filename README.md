@@ -31,7 +31,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namadee&theme=dark)](https://git.io/streak-stats)
- (https://github.com/namadee/github-readme-stats)
+
 ---
 
 ### :writing_hand: Blog Posts :
