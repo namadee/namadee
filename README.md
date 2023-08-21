@@ -4,7 +4,7 @@
 </h1>
 </div>
 <div>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namadee&show_icons=true&locale=en" alt="namadee" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namadee&theme=radical&count_private=true&show_icons=true" /></p>
 </div>
 ### :woman_technologist: About Me :
 
