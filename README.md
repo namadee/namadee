@@ -5,8 +5,6 @@
 </div>
 <div>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namadee&theme=radical&count_private=true&show_icons=true" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namadee&layout=compact&theme=radical" /></p>
-
 </div>
 
 ### :mailbox: Reach me :
