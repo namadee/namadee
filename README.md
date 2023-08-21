@@ -3,7 +3,8 @@
   hey there
 </h1>
 </div>
----
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=namadee&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namadee&langs_count=5&theme=tokyonight)]()
 
 ### :woman_technologist: About Me :
 
@@ -16,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-namadee-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/namadee-shakya-043b98202)
-- ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
