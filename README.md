@@ -5,7 +5,8 @@
 </div>
 <div>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namadee&theme=radical&count_private=true&show_icons=true" /></p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namadee&layout=compact&theme=vision-friendly-dark)](https://github.com/namadee/github-readme-stats)
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namadee&layout=compact&theme=radical" /></p>
+
 </div>
 
 ### :mailbox: Reach me :
@@ -32,7 +33,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namadee&theme=dark)](https://git.io/streak-stats)
-
+ (https://github.com/namadee/github-readme-stats)
 ---
 
 ### :writing_hand: Blog Posts :
