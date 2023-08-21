@@ -1,7 +1,7 @@
-<div id="header" align="center">
-<h1>
+<div id="header" align="left">
+<h3>
   hey there
-</h1>
+</h3>
 </div>
 <div>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namadee&theme=radical&count_private=true&show_icons=true" /></p>
