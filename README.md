@@ -3,11 +3,9 @@
   hey there
 </h1>
 </div>
-[![My GitHub Stats]
-(https://github-readme-stats.vercel.app/api/?username=namadee&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=namadee&langs_count=5&theme=tokyonight)]()
-
+<div>
+  ![My Github stats](https://github-readme-stats.vercel.app/api?username=namadee&theme=radical&show_icons=true)
+</div>
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
